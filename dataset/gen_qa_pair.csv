@@ -1,0 +1,98 @@
+Question,Answer,Conv_id
+<question> Do you like dance?,"<ans> Yes, I do.",2
+<question> Did you know Bruce Lee was a cha cha dancer?,"<ans> Yes, he even won a hardcore cha cha championship in 1958.",2
+<question> Did you know Tupac was a ballet dancer?,"<ans> Yes, and he even was in the production of the nutcracker.",2
+<question> Do ballet dancers go through a lot of shoes?,"<ans> Yes, they go through 4 pairs of shoes a week.",2
+<question> Did you know babies are good at dancing?,"<ans> Yes, and they smile more when they hit the beat.",2
+<question> Did Jackson have a patent on a dancing device?,"<ans> Yes, it helped him smooth out his dance moves.",2
+<question> Do you like Shakespeare?,"<ans> Yes, I do.",2
+<question> Did he popularize many phrases?,"<ans> Yes, like good riddance, in my heart of hearts, and such.",2
+"<question> Did he invent names like Jessica, Olivia, and Miranda?","<ans> Yes, he did.",2
+<question> How do his works have to be written?,<ans> His works have to be written in old English for it to make sense.,2
+<question> Did he live at the same time as Pocahontas?,"<ans> Yes, he did.",2
+<question> Did they meet?,"<ans> Yes, it would be interesting to know if they met.",2
+<question> Do you think it's funny that Google employs goats to mow their lawn?,"<ans> Yeah, it's both funny and imaginative.",3
+<question> What do you think is the coolest thing about fish?,<ans> I think the fact that some fish are immortal is pretty cool.,3
+<question> Has anyone ever told you that you have a cat-like personality?,"<ans> No, but I think I might be a cat person after all.",3
+<question> Can you believe there are stars that can be cold enough to be touched?,"<ans> Yes, the universe is so diverse and ever evolving.",8
+<question> Why do you think cats spend a lot of their time sleeping?,<ans> Cats hear sounds too faint or too high frequency human ears can hear.,8
+<question> What are some of the services provided by Google?,"<ans> Google provides online related services and products, which includes online ads, search engine, and cloud computing.",8
+<question> Are you a Star Wars fan?,"<ans> Yes, I am a huge fan of Star Wars!</ans>",9
+<question> Why do you think cats spend a lot of their time sleeping?,<ans> Cats hear the sounds too faint or too high frequency human ears can hear.</ans>,9
+<question> What are some of the services provided by Google?,"<ans> Google provides online related services and products, which includes online ads, search engine and cloud computing.</ans>",9
+<question> Can you tell me more about the immortal jellyfish?,"<ans> Lol...speaking of water animals, did you know that hiccoughs are a left over from evolution when we had gills?",10
+<question> Why do you think fish are so important in modern society?,<ans> Fish are cool like that. I think it's neat that amphibians and reptiles and birds and mammals all had the same ancestry with fish.,10
+<question> Have you heard of the Loch Ness monster?,"<ans> Yeah, and the Loch Ness monster is protected under the 1912 Scottish Animal Protection Act.",10
+<question> Do you have a cat?,"<ans> No, I do not. I am actually allergic to cats.</ans>",13
+<question> Why do you think cats spend a lot of their time sleeping?,<ans> Cats hear the sounds too faint or too high frequency human ears can hear.</ans>,13
+<question> What are some of the services provided by Google?,"<ans> Google provides online related services and products, which includes online ads, search engine and cloud computing.</ans>",13
+<question> Did you know that there are over 1.5 million living animal species?,"<ans> No, that was chock  full of interesting facts.",14
+<question> Why do cats spend a lot of their time sleeping?,<ans> Cats hear the sounds too faint or too high frequency human ears can hear.,14
+<question> What services does Google provide?,"<ans> Google provides online related services and products, which includes online ads, search engine and cloud computing.",14
+<question> What is the first cloned animal?,"<ans> Was it a sheep? I heard the first cloned pet was a cat, though. Its name was copy cat. That is funny!</question>",15
+<question> Why do you think cats spend a lot of their time sleeping?,<ans> Cats hear the sounds too faint or too high frequency human ears can hear.</question>,15
+<question> What are some of the services provided by Google?,"<ans> Google provides online related services and products, which includes online ads, search engine and cloud computing.</question>",15
+<question> What would you do if you found a baby tiger inside of a duffel bag?,"<ans> I would look around to make sure Mama tiger is not in the area and looking at me with, ""Gimme back my child"" look!",16
+<question> Why do you think animals can get white patches on their foreheads?,"<ans> Once domesticated, animals develop white patches on their foreheads, likely because once indoors, they run into painted walls and doors with their heads. I know i do.",16
+<question> Did you know that there is a jellyfish breed that can never die?,"<ans> Yeah. Aunt Matilda would make a better hag fish anyway, or maybe a seahorse, since they are the only fish with a neck. ",16
+<question> Can you recommend any movies to watch?,"<ans> Yeah it is the one, so Han Solo is not played by Harrison Ford, does it affect your opinion of the movie?",17
+<question> Does Chewbacca appear in this movie?,"<ans> Yes it does, but it is not the same actor who did the other movies. I don't think that matters too much.",17
+<question> Would you like to see a film with Chewbacca as the principal character?,<ans> I think it would be interesting. There are also so many comic stories that could be told.,17
+<question> Do you like dogs?,<ans> Yes! dogs and elephants can understand pointing```,17
+<question> How do you feel about Kanye West?,"<ans> Well, you may be on the other side of the fence but I like neither Kanye nor Trump.",18
+<question> Why do you think Kanye West has changed his stance on certain issues?,"<ans> I guess they money makes a big difference, He even thinks AIDS is a man-made disease!",18
+<question> What kind of music do you enjoy listening to?,"<ans> I'm a kid of the eighties and nineties,  I never really moved on from that alternative rock scene.",18
+<question> Do you like wearing hats?,"<ans> Yes me as well. In the military hats denote a nationality, branch of service, rank or regiment.",19
+<question> Why do you think cats spend a lot of their time sleeping?,<ans> Cats hear the sounds too faint or too high frequency human ears can hear.,19
+<question> What are some of the services provided by Google?,"<ans> Google provides online related services and products, which includes online ads, search engine and cloud computing.",19
+<question> Do you like rap music?,"<ans> I do, but I cannot tolerate Kanye West. I adore Tupac, and think it's interesting that the Library of Congress chose his music to be included because it's culturally significant.",21
+<question> Why do you think cats spend a lot of their time sleeping?,<ans> Cats hear the sounds too faint or too high frequency human ears can hear.,21
+<question> What are some of the services provided by Google?,"<ans> Google provides online related services and products, which includes online ads, search engine and cloud computing.",21
+<question> Did you know that there is a candy desk in the us senate?,"<ans> haha yeah, I heard about that. It's been there since 1968.",22
+<question> What candy is made in Pennsylvania besides Hershey?,"<ans> They've got milky way bars, mars bars, and even jelly beans!",22
+<question> Did you hear that in 1988 they arrested senators to force them to vote?,<ans> Yes they did.  One of the senators tried to escape and was carried feet first into the senate chamber by three officers!,22
+<question> Did 20th Century Fox think Star Wars would be successful?,"<ans> No, they did not think it would succeed.",23
+<question> Did George Lucas get the licensing and merchandising rights to Star Wars?,"<ans> Yes, he did because they did not want to pay additional directing fee to Lucas.",23
+<question> How much is the Star Wars franchise estimated to be worth?,<ans> It is estimated to be worth $65 billion dollars!,23
+<question> Do you think earth will have longer days in the future?,"<ans> Yes, earth will be helium free by the end of the 21st-century. No more balloons for us!",24
+<question> What do you think of the concept of Blade Runner?,<ans> They are very cool and gritty. Ridley Scott is a good director.,24
+<question> Have you seen the movie Blade Runner?,<ans> Yes I have seen all the blade runner movies. They are very cool and gritty. Ridley Scott is a good director.,24
+<question> Do you think the height of the candidate affects the outcome of the election?,"<ans> yeah, I guess people think dominance with height?  Not sure how that one works.",25
+<question> What do you think about the idea of allowing animals to vote in elections?,<ans> at least we don't have to go into the forest with lions like they do in Indian government!,25
+<question> Do you think it's important for elected officials to be comfortable in their workspace?,<ans> nothing worse than trying to work and feeling uncomfortable!!,25
+<question> Do you like baseball?,<ans> I have heard of it. Do you?</ans>,29
+<question> Why do you think baseball managers wear uniforms?,"<ans> It is probably a holdover from the old days when a player was chosen to be manager. Nowadays, it wouldn't work.</ans>",29
+<question> Can you win money through betting on baseball games?,"<ans> Yes, if it is your criteria, then video game is a legitimate sport. They have leagues and a lot of betting is done on matches.</ans>",29
+<question> Are you a baseball fan?,<ans> i like baseball. i usually watch the world series. You?,30
+<question> Why do baseball managers wear uniforms?,<ans> they are technically able to play for their teams if needed.,30
+<question> What is the average salary for a professional softball player?,"<ans> between $5,000 and $6,000. Not enough fans to support it. ",30
+<question> Have you seen the Disney movie Frozen?,"<ans> No, I haven't seen it. Is it a good film?",31
+<question> Who were the people involved in the film?,"<ans> There's like a princess, a reindeer and a snowman, they're like thee most important characters.",31
+<question> Do you like dogs?,"<ans> A dog is a great friend, but no, I have never had a dog. I enjoy playing with them though.",31
+<question> Why do you think people are adopting the immigrant children?,<ans> Many are adopting the kids because they want to give them safe homes!,32
+<question> Did you like Frozen?,"<ans> Yes, it was great movie. And there's a sequel coming out. I can't wait!",32
+<question> What is your favorite blood type among dogs?,<ans> Did the male love interest have a dog or a horse in Frozen? I can't remember...,32
+<question> Do you like dogs?,<ans> Yes! I sometimes Love them better than people... they are just full of Love. Did you know there are 12 different blood types that a dog may have and dog can donate blood at dog blood drives! I love them even more!</ans>,33
+<question> Why do you think Disney is so successful?,"<ans> It's ironic that Walt Disney was fired from his job at a local newspaper in Missouri for ''not being creative enough.'' I guess his genius was not recognized because he was ahead of his time. Wow! well see, that's why I believe in perfect timing sometimes there are better opportunities ahead of us. amazing!</ans>",33
+<question> What do you like to watch?,"<ans> I enjoy watching comedies and dramas. I sometimes watch animated stuff, but not usually. Mysteries or psychological thrillers are great, but animated is one of my favs to watch with kiddos although everyone knows Minnie mouse did you know minnie is short for minerva?! mind blown</ans>",33
+<question> What is FanFest?,<ans> Hey! What is FanFest? lol,34
+<question> Why do you think video games make more money than films from Hollywood?,<ans> It could be kind of sport. I more support this point of view. How about you? What's your opinion?,34
+<question> Do you consider video games an art form?,"<ans> Yes. At the same time it would be easy to define popularity of such art. For example, it could be a reason why the rating system was involved in video games.",34
+"<question> Did you play any video games growing up?</ans> Yes I play video games somewhat, used to play Maurice a kid but I don't play that many these days.","</question><ans> I could definitely see that. What were your favorite video games? Jane McGongiai was the game designer behind that study, pretty cool.</ans> I agree with you. Did you ever play the video game LittleBigPlanet or Harry Potter? Apparently the same person did the narration in both of those video games, his name is Stephen Fry</ans> Haha yes I can do that. It's interesting that the softball is bigger than a baseball because it is about 12 in in circumference, I've never played softball but that seems like a really big ball lol</ans> Yes, it's quite a bit larger than a baseball for sure, I've never seen a softball video game though, have you?</ans> No I've never seen one actually. It's interesting though that the average salary for a professional softball player is at most $6,000 LOL definitely you're not retiring on that money</ans> Oh wow, definitely not! Anyways, I am going to get going, great chatting with you, take care and have a great night!</ans> Yes it's been an excellent chat! And make sure to try out a baseball video game once in awhile, they are actually pretty fun",35
+<question> Do you go out and vote during elections?,"<ans> Yes, I do like to get out and vote.",37
+<question> How do you think people were appointed in ancient Athens?,<ans> They were probably appointed by a lottery of some type.,37
+<question> What do you think about the none of these candidate option in Nevada's ballot?,"<ans> Yeah, I didn't know about that either.",37
+<question> Are you a fan of poetry?,<ans> It has a long history dating back to prehistoric times.,40
+<question> Why do you think poems evolved from folksongs?,<ans> Early poems in the Eurasian content evolved from folksongs.,40
+<question> Is poetry spoken and written?,"<ans> Yes, poetry is spoken and written, so it is related to many arts.",40
+<question> Do you have a favorite poet?,<ans> I think it's funny when comedians do poetry. I don't really have a favorite poet.,40
+<question> How did Edgar Allan Poe make money?,<ans> He probably spent it on drugs and booze too.,40
+<question> What is your favorite genre of fiction?,<ans> I like non fiction because i want to keep up with what is going on in the world.,40
+<question> What do you think about fan fiction?,<ans> The author of game of thrones despises fan fiction because he says it is copyright infringement and not a good exercise for aspiring writers.,40
+<question> How has technology changed the way you write?,"<ans> Yes, the typewriter changes the relationship between the writer and the prose. i figure that the computer makes my writing different.",40
+<question> Do you use Amazon?,"<ans> Yes, I like Amazon, I like their movie site and their purchase website.</ans>",41
+<question> Why do you think cats spend a lot of their time sleeping?,<ans> Cats hear the sounds too faint or too high frequency human ears can hear.</ans>,41
+<question> What are some of the services provided by Amazon?,"<ans> Amazon provides online related services and products, which includes online ads, search engine and cloud computing.</ans>",41
+<question> Do you like horses?,"<ans> Yes, I do. Did you know horses are able to sleep standing up and lying down?</ans>",42
+<question> Why do horses evolve over time?,"<ans> They evolved over the past 45 to 55 million years from a small multi-toed creature, Eohippus, into the large single-toed animal of today.</ans>",42
+<question> How many breeds of horses are there in the world?,<ans> There are over 300 breeds of horses in the world today.</ans>,42
